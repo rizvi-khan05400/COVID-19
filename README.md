@@ -48,4 +48,4 @@ The dataset includes information on **Confirmed, Deaths, and Recovered cases**.
 
 Run the notebook using:
 ```bash
-jupyter lab
+jupyter lab, jupyter notebook
